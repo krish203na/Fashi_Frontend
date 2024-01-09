@@ -1,0 +1,13 @@
+#ul1
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+#li2 div{
+    display: flex;
+    border: 1px solid;
+}
+#brandsection
+{
+    background-color: rgb(22, 21, 21);
+}
